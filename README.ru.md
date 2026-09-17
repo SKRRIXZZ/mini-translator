@@ -13,6 +13,12 @@
 
 ---
 
+## 📸 Скриншот
+
+Главное окно<img width="684" height="574" alt="screenshot-main" src="https://github.com/user-attachments/assets/2b91e833-d988-4727-ae75-aebbc226ebc6" />
+
+---
+
 ## ✨ Возможности
 - Глобальный хоткей: `Ctrl+Shift+Q` / `Ctrl+Alt+Q`
 - Перевод содержимого буфера во всплывающем окне
