@@ -6,7 +6,7 @@ Lightweight clipboard translator with a global hotkey. Press the hotkey after `C
 
 > ### ⚡ The main trick
 > The app **lives in the tray, minimized**. You don't need to open any window.
-> Just select text anywhere, press **`Ctrl+C`**, then press **`Ctrl+Shift+Q`** —
+> Just select text anywhere, press **`Ctrl+C`**, then press **`Ctrl+Shift+Q`** or **`Ctrl+ALT+Q`** —
 > and the translation pops up instantly in a floating window.
 >
 > **No tabs, no windows, no switching apps. Just two shortcuts and it's done.**
