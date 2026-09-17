@@ -6,6 +6,12 @@ Lightweight clipboard translator with a global hotkey. Press the hotkey after `C
 
 ---
 
+## 📸 Screenshot
+
+Main window<img width="688" height="580" alt="screenshot-main" src="https://github.com/user-attachments/assets/67c8eef6-29eb-4122-aed0-54554e5912a8" />
+
+---
+
 ## ✨ Features
 - Global hotkey: `Ctrl+Shift+Q` / `Ctrl+Alt+Q`
 - Translates clipboard content into a popup
